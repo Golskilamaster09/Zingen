@@ -25,9 +25,3 @@ O **Zingen** é uma landing page promocional projetada para apresentar uma plata
 - **Vercel:** Plataforma de hospedagem e continuous deployment.
 
 ---
-
-## 🚀 Como Executar Localmente
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/Golskilamaster09/Zingen.git](https://github.com/Golskilamaster09/Zingen.git)
