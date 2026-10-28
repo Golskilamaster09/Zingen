@@ -4,7 +4,7 @@ O **Zingen** é uma landing page promocional projetada para apresentar uma plata
 
 ## 🌐 Demonstração
 
-🔗 **Acesse online:** (https://zingen-gamma.vercel.app)
+🔗 **Acesse online:** https://zingen-gamma.vercel.app
 
 
 ### ✨ Principais Seções
