@@ -2,6 +2,11 @@
 
 O **Zingen** é uma landing page promocional projetada para apresentar uma plataforma de karaokê inteligente gamificada. O objetivo da página é engajar usuários através de um design limpo, moderno e focado em conversão, destacando os recursos do app, os planos de assinatura disponíveis e links rápidos para download.
 
+## 🌐 Demonstração
+
+🔗 **Acesse online:** (https://zingen-gamma.vercel.app)
+
+
 ### ✨ Principais Seções
 
 - **Hero:** Chamada principal com CTAs para exploração de planos e download.
